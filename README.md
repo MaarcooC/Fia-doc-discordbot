@@ -1,2 +1,3 @@
-# Fia-doc-discordbot
-Discordbot that sends live fia docs on discord
+# Fia doc discordbot
+
+This bot sends instantly fia docs whenever they're published.
