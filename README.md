@@ -1,3 +1,5 @@
-# Fia doc discordbot
+# FIA Doc Discord Bot
 
-This bot sends instantly fia docs whenever they're published.
+This bot instantly sends FIA documents whenever they're published.
+
+This bot is not affiliated with FIA or Formula 1 in any way.
